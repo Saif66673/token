@@ -1,0 +1,9 @@
+// const { client } = require("../index");
+// /**
+//  * @param {client} client
+//  */
+// module.exports = (client, instance) => {};
+// module.exports.config = {
+//   displayName: "",
+//   dbName: "", // This should NEVER be changed once set, and users cannot see it.
+// };
